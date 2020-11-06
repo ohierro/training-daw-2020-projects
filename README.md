@@ -39,6 +39,11 @@ Cada uno de las pantallas será una página distinta, sin necesidad de tener que
 Aplicación web formada por el front-end con la capa de presentación y el back-end con la capa de procesado de datos.
 
 ### Front-End
+* Definir las pantallas en 2 archivos html independientes
+* Cada pantalla llevará su JS
+* No utilizar JS dentro del HTML
+* Para las operaciones de invocación al API, utilizar fetch
+
 
 ### Back-End
 * API REST desarrollada .Net Core 3.1
