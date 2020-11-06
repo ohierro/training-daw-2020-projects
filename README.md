@@ -23,7 +23,7 @@ A la hora de añadir un site, serán obligatorios los siguientes campos:
 
 
 ## Mockups
-A continuación se muestran unos diseñor orientativos sobre el diseño de la aplicación
+A continuación se muestran unos diseños orientativos sobre el diseño de la aplicación
 
 Pantalla principal de la aplicación.
 ![main page](img/Main_page.png "Main page")
