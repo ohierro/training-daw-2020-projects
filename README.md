@@ -48,5 +48,6 @@ Aplicación web formada por el front-end con la capa de presentación y el back-
 ## Bonus
 
 * Explorar todas las opciones que ofrece Swagger en lo referente a documentación añadiendo descripciones de controladores, métodos, parámetros, etc.
+* Implementación del verbo PATCH según el estandar REST haciendo uso Microsoft.AspNetCore.JsonPatch
 
 
