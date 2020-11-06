@@ -38,9 +38,15 @@ Cada uno de las pantallas será una página distinta, sin necesidad de tener que
 
 Aplicación web formada por el front-end con la capa de presentación y el back-end con la capa de procesado de datos.
 
-###Front-End
+### Front-End
 
-###Back-End
+### Back-End
 * API Rest desarrollada .Net Core 3.1
 * Publicación de la API en un App Service de Azure desde donde se expondrá la API al front-end
-* Documentación de la API bajo es estándar OpenApi mediante Swagger. Deberá permitir poder importar la API como colección en Postman para ser testeada así como exponer un interfaz que permita interactuar con la API directamente desde el navegador Web.
+* Documentación de la API bajo es estándar OpenApi mediante Swagger. Deberá permitir poder importar la API como colección en Postman para ser testeada, así como exponer un interfaz que permita interactuar con la API directamente desde el navegador Web.
+
+## Bonus
+
+* Explorar todas las opciones que ofrece Swagger en lo referente a documentación añadiendo descripciones de controladores, métodos, parámetros, etc.
+
+
