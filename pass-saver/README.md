@@ -28,6 +28,9 @@ A continuación se muestran unos diseños orientativos sobre el diseño de la ap
 Pantalla principal de la aplicación.
 ![main page](img/Main_page.png "Main page")
 
+Al añadir una nueva categoría, simplemente preguntaremos el nombre
+![main page](img/Main_page_new_category.png "Main page -new category")
+
 
 Pantalla para añadir/editar una nueva entrada:
 ![main page](img/Edit_add.png "Edit page")
