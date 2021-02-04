@@ -60,10 +60,28 @@ Aplicación web formada por el front-end con la capa de presentación y el back-
 * API REST desarrollada .Net Core 3.1
 * Publicación de la API en un App Service de Azure desde donde se expondrá la API al front-end
 * Documentación de la API bajo es estándar OpenApi mediante Swagger. Deberá permitir poder importar la API como colección en Postman para ser testeada, así como exponer un interfaz que permita interactuar con la API directamente desde el navegador Web.
+* Utilización de SQLite como gestor de BD y estrategia "Code First" mediante el uso de migraciones para la creación del modelo en BD.
+* Validaciones de los datos en 
+Respuestas de la API Control de errores
+
 
 ## Bonus
 
 * Realizar los puntos indicados como `EXTRA``
 * Diseñar todo el UI mediante vue-bootstrap
 * Implementar el carrito mediante Vuex
+* Implementar el patron de diseño UnitOfWork y Repository para el acceso a datos.
+* Estructurar la API para cumplir con la arquitectura Clean Architecture.
 
+## Puntuación
+El ejercicio se valorará dividendo la parte de Front-End y Back-End con 10 puntos cada una y sacando la nota final mediante la media aritmética entre Front-End y Back-End.
+
+### Front-End (10 puntos)
+
+### Back-End (8 puntos + 2 puntos de bonus)
+* 1 pt - Entrega respetando formatos
+* 1 pt - Publicación correcta sobre Azure App Service.
+* 1 pt - Revisión de código. Correcto uso de [convenciones de nomenclatura](https://docs.microsoft.com/es-es/dotnet/standard/design-guidelines/naming-guidelines), al menos en nombres de clases, interface, variables, metodos y parametros, y uso de [buenas practicas](https://docs.microsoft.com/es-es/dotnet/csharp/programming-guide/inside-a-program/coding-conventions)
+* 5 pt - Implementación de Swagger y correcto funcionamiento de todos los métodos expuestos desde swaggwer. En caso de **no estar publicada la API en Azure y no compilar el código** o **no implementar swagger**, y por lo tanto no poder probar, este punto no se evaluará y serán **0 puntos**.
+* 1 pt - Bonus implementar el patrón de diseño UnitOfWork y Repository para el acceso a datos.
+* 1 pt - Estructurar la API para cumplir con la arquitectura Clean Architecture.
