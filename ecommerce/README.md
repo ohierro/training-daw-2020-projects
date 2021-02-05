@@ -78,6 +78,35 @@ El ejercicio se valorará dividendo la parte de Front-End y Back-End con 10 punt
 
 ### Front-End (10 puntos)
 
+Son 130 puntos, que se trasladarán a 10 mediante la aplicación de la regla: `nota * 10 / 150`.
+
+Ejemplos: 130 ptos sería un 10, 90 ptos sería un 6,9 y 70 ptos un 5,3.
+
+* FUNCIONALIDAD (90 ptos)
+    * 40 ptos - Listado correcto de productos
+        * Listado de los datos
+        * Enlaces de view, añadir y checkout funcionando correctamente
+        * Actualización del componente de carrito correctamente al añadir un producto
+        * Diseño basado en componentes, utilizando adecuadamente los eventos y propiedades
+    * 30 ptos - Visualización de producto
+        * Visualización de los datos completos del producto
+        * Visualización de las distintas imágenes del producto
+        * Funcionamiento de los botones de la pantalla
+    * 20 ptos - Carrito de la compra
+        * Eliminación de un producto
+        * Modificar la cantidad de elementos (y los calculos implicados de totales...)
+* GENERALES (40 ptos)
+    * 20 ptos - Limpieza de código (sin comentarios, indentación correcta, nombrado consistente...)
+    * 20 ptos - Aplicación correcta de conceptos (propiedades, eventos, componentes...)
+
+* EXTRAS (70 ptos SI (FUNCIONALIDAD + GENERALES) > 70):
+    * 20 ptos - Implementar mecanismos de paginación
+    * 10 ptos - Utilizar algún componente de carrusel
+    * 10 ptos - Utilización de vue-bootstrap
+    * 30 ptos - Utilización de Vuex
+
+
+
 ### Back-End (8 puntos + 2 puntos de bonus)
 * 1 pt - Entrega respetando formatos
 * 1 pt - Publicación correcta sobre Azure App Service.
