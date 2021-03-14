@@ -107,10 +107,9 @@ Ejemplos: 130 ptos sería un 10, 90 ptos sería un 6,9 y 70 ptos un 5,3.
 
 
 
-### Back-End (8 puntos + 2 puntos de bonus)
+### Back-End (9 puntos + 1 puntos de bonus)
 * 1 pt - Entrega respetando formatos
 * 1 pt - Publicación correcta sobre Azure App Service.
 * 1 pt - Revisión de código. Correcto uso de [convenciones de nomenclatura](https://docs.microsoft.com/es-es/dotnet/standard/design-guidelines/naming-guidelines), al menos en nombres de clases, interface, variables, metodos y parametros, y uso de [buenas practicas](https://docs.microsoft.com/es-es/dotnet/csharp/programming-guide/inside-a-program/coding-conventions)
-* 5 pt - Implementación de Swagger y correcto funcionamiento de todos los métodos expuestos desde swaggwer. En caso de **no estar publicada la API en Azure y no compilar el código** o **no implementar swagger**, y por lo tanto no poder probar, este punto no se evaluará y serán **0 puntos**.
+* 6 pt - Implementación de Swagger y correcto funcionamiento de todos los métodos expuestos desde swaggwer. En caso de **no estar publicada la API en Azure y no compilar el código** o **no implementar swagger**, y por lo tanto no poder probar, este punto no se evaluará y serán **0 puntos**.
 * 1 pt - Bonus implementar el patrón de diseño UnitOfWork y Repository para el acceso a datos.
-* 1 pt - Estructurar la API para cumplir con la arquitectura Clean Architecture.
