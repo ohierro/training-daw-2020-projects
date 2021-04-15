@@ -13,7 +13,7 @@ Pantalla principal de la aplicación.
 Se mostrará un listado de películas, con su título y descripción breve, además de dos iconos para indicar si se ha visto o no y si me gusta o no. Estos iconos a su vez actuarán como botón y permitirán cambiar el estado.
 
 Desde el catálogo se accederá también a listado de películas para ver más tarde, podrá ser un botón, un enlace o si se prefiere hacer un menú con dos opciones (catalogo y películas para ver) también es válido.
-`EXTRA: En principio tanto visto o me gusta tendrán solo dos posibles valores, pero si lo ideal sería para el caso de me gusta/no me gusta implementar también sin valor, es decir, ni me gusta ni no me gusta`
+`EXTRA: En principio tanto visto o me gusta tendrán solo dos posibles valores, pero para el caso de me gusta/no me gusta lo ideal sería implementar también sin valor, es decir, ni me gusta ni no me gusta`
 
 ### Visualizar detalle de una película
 Al pulsar sobre "Ver", nos llevará a la página de detalle de la película.
