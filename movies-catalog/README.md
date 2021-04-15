@@ -1,7 +1,7 @@
 # Movies catalog
 
 El objetivo del proyecto es crear un catálogo de películas al estilo Netflix, pero por supuesto sin la parte de streaming.
-Dicho comercio permitirá listar un conjunto de películas del catálogo, marcarlas como visto/no visto, me gusta/no me gusta y añadir a lista de películas a ver más tarde.
+Dicho catálogo permitirá listar un conjunto de películas del catálogo, marcarlas como visto/no visto, me gusta/no me gusta y añadir a lista de películas a ver más tarde.
 
 ## Funcionalidad
 
