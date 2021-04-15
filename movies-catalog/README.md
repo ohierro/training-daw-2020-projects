@@ -33,7 +33,7 @@ Al pulsar sobre el icono de me gusta/no me gusta en cada una de las películas, 
 ### Añadir a ver más tarde
 Al pulsar sobre el botón "Ver más tarde", deberá agregar la película en una lista de películas pendientes para ver (en servidor) mostrando un mensaje de confirmación al usuario "Película agregada correctamente para ver más tarde"
 
-### Visualizar el lista de películas a ver más tarde
+### Listado de películas a ver más tarde
 
 Al pulsar sobre la opción de "Películas a ver más tarde", nos llevará a la página listado de películas para ver más tarde
 
