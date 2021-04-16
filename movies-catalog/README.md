@@ -1,7 +1,7 @@
 # Movies catalog
 
-El objetivo del proyecto es crear un catálogo de películas al estilo Netflix, pero por supuesto sin la parte de streaming.
-Dicho catálogo permitirá listar un conjunto de películas del catálogo, marcarlas como visto/no visto, me gusta/no me gusta y añadir a lista de películas a ver más tarde.
+El objetivo del proyecto es crear un catálogo de películas al estilo Netflix pero, por supuesto, sin la parte de streaming.
+Dicho catálogo permitirá listar un conjunto de películas, marcarlas como visto/no visto, me gusta/no me gusta y añadir a lista de películas a ver más tarde.
 
 ## Funcionalidad
 
@@ -52,6 +52,7 @@ Aplicación web formada por el front-end con la capa de presentación y el back-
 * Utilización de vue 2 para el proyecto
 * Utilización de vue-router para la navegación en las páginas
 * Utilización correcta de componentes
+* Utilización de Vuex para la gestión de las peticiones
 
 
 ### Back-End
@@ -65,7 +66,6 @@ Aplicación web formada por el front-end con la capa de presentación y el back-
 
 * Realizar los puntos indicados como `EXTRA``
 * Diseñar todo el UI mediante vue-bootstrap
-* Implementar el carrito mediante Vuex
 * Implementar el patron de diseño UnitOfWork y Repository para el acceso a datos.
 
 ## Puntuación
@@ -73,32 +73,28 @@ El ejercicio se valorará dividendo la parte de Front-End y Back-End con 10 punt
 
 ### Front-End (10 puntos)
 
-Son 130 puntos, que se trasladarán a 10 mediante la aplicación de la regla: `nota * 10 / 150`.
+Son 150 puntos, que se trasladarán a 10 mediante la aplicación de la regla: `nota * 10 / 150`.
 
-Ejemplos: 130 ptos sería un 10, 90 ptos sería un 6,9 y 70 ptos un 5,3.
+Ejemplos: 150 ptos sería un 10, 90 ptos sería un 6,9 y 70 ptos un 5,3.
 
 * FUNCIONALIDAD (90 ptos)
     * 40 ptos - Listado correcto de productos
         * Listado de los datos
-        * Enlaces de view, añadir y checkout funcionando correctamente
-        * Actualización del componente de carrito correctamente al añadir un producto
+        * Enlaces de like, view y view later funcionando correctamente
+        * Actualización de la lista de view later al añadir una película nueva
         * Diseño basado en componentes, utilizando adecuadamente los eventos y propiedades
-    * 30 ptos - Visualización de producto
-        * Visualización de los datos completos del producto
-        * Visualización de las distintas imágenes del producto
+    * 30 ptos - Visualización de detalles
+        * Visualización de los datos completos de la película
         * Funcionamiento de los botones de la pantalla
-    * 20 ptos - Carrito de la compra
-        * Eliminación de un producto
-        * Modificar la cantidad de elementos (y los calculos implicados de totales...)
+    * 20 ptos - Lista to view later
+        * Funcionamiento de los botones
 * GENERALES (40 ptos)
     * 20 ptos - Limpieza de código (sin comentarios, indentación correcta, nombrado consistente...)
     * 20 ptos - Aplicación correcta de conceptos (propiedades, eventos, componentes...)
 
-* EXTRAS (70 ptos SI (FUNCIONALIDAD + GENERALES) > 70):
-    * 20 ptos - Implementar mecanismos de paginación
-    * 10 ptos - Utilizar algún componente de carrusel
+* EXTRAS (50 ptos SI (FUNCIONALIDAD + GENERALES) > 70):
+    * 40 ptos - Implementar mecanismos de paginación
     * 10 ptos - Utilización de vue-bootstrap
-    * 30 ptos - Utilización de Vuex
 
 ### Back-End (9 puntos + 1 puntos de bonus)
 * 1 pt - Entrega respetando formatos
