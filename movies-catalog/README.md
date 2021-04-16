@@ -20,7 +20,7 @@ Al pulsar sobre "Ver", nos llevará a la página de detalle de la película.
 
 ![detail](img/detail.JPG "Detail")
 
-Dicha pantalla mostrará la descripción larga de la película, así como el reparto y la clasificación por edades de esta. Incluirá también los dos iconos para indicar si se ha visto o no y si me gusta o no, con el mismo funcionamiento descrito para el listado. Y adicionalmente se deberá añadir un botón para añadir la película a la lista de películas a ver más tarde.
+Dicha pantalla mostrará la descripción larga de la película, así como el reparto, el año y la clasificación por edades de esta. Incluirá también los dos iconos para indicar si se ha visto o no y si me gusta o no, con el mismo funcionamiento descrito para el listado. Y adicionalmente se deberá añadir un botón para añadir la película a la lista de películas a ver más tarde.
 
 ### Marcar visto/no visto
 
