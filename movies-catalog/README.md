@@ -8,7 +8,7 @@ Dicho catálogo permitirá listar un conjunto de películas del catálogo, marca
 ### Listado de películas
 Pantalla principal de la aplicación.
 
-![main page](img/Main.png "Main page")
+![catalog](img/catalog.JPG "Catalog")
 
 Se mostrará un listado de películas, con su título y descripción breve, además de dos iconos para indicar si se ha visto o no y si me gusta o no. Estos iconos a su vez actuarán como botón y permitirán cambiar el estado.
 
@@ -18,7 +18,7 @@ Desde el catálogo se accederá también a listado de películas para ver más t
 ### Visualizar detalle de una película
 Al pulsar sobre "Ver", nos llevará a la página de detalle de la película.
 
-![details](img/Details.png "Details of product")
+![detail](img/detail.JPG "Detail")
 
 Dicha pantalla mostrará la descripción larga de la película, así como el reparto y la clasificación por edades de esta. Incluirá también los dos iconos para indicar si se ha visto o no y si me gusta o no, con el mismo funcionamiento descrito para el listado. Y adicionalmente se deberá añadir un botón para añadir la película a la lista de películas a ver más tarde.
 
@@ -37,7 +37,7 @@ Al pulsar sobre el botón "Ver más tarde", deberá agregar la película en una 
 
 Al pulsar sobre la opción de "Películas a ver más tarde", nos llevará a la página listado de películas para ver más tarde
 
-![checkout](img/Checkout.png "Checkout")
+![toview](img/toview.JPG "list to view later")
 
 En dicha pantalla, podremos realizar las siguientes acciones:
 
