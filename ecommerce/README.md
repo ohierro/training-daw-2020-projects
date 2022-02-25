@@ -78,7 +78,7 @@ El ejercicio se valorará dividendo la parte de Front-End y Back-End con 10 punt
 
 ### Front-End (10 puntos)
 
-Son 130 puntos, que se trasladarán a 10 mediante la aplicación de la regla: `nota * 10 / 150`.
+Son 130 puntos, que se trasladarán a 10 mediante la aplicación de la regla: `nota * 10 / 130`.
 
 Ejemplos: 130 ptos sería un 10, 90 ptos sería un 6,9 y 70 ptos un 5,3.
 
@@ -107,7 +107,7 @@ Ejemplos: 130 ptos sería un 10, 90 ptos sería un 6,9 y 70 ptos un 5,3.
 
 
 
-### Back-End (9 puntos + 1 puntos de bonus)
+### Back-End (90 puntos + 10 puntos de bonus)
 * 10 ptos - Entrega respetando formatos
 * 10 ptos - Publicación correcta sobre Azure App Service.
 * 10 ptos - Revisión de código. Correcto uso de [convenciones de nomenclatura](https://docs.microsoft.com/es-es/dotnet/standard/design-guidelines/naming-guidelines), al menos en nombres de clases, interface, variables, metodos y parametros, y uso de [buenas practicas](https://docs.microsoft.com/es-es/dotnet/csharp/programming-guide/inside-a-program/coding-conventions)
